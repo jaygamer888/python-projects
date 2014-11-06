@@ -18,7 +18,7 @@ while True:
         'lets find out.',
         'I will be waiting.',
         'Best not to know.',
-        'oh,heck no!.',
+        'oh,s*** no!.',
         'you bet.',
         'shut up',
         'back off.',
